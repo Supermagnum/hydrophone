@@ -1,5 +1,6 @@
 # hydrophone
 A DIY hydrophone for balanced input.
+It's for stationary or drifting usage, since it will cause significant flow noise due to the non streamlined box.
 Piezoelectric disks inside a small metal box,used for paint. They are superglued to the inside of the lid. The black goo is liquid gasket.
 
 https://github.com/Supermagnum/hydrophone/blob/main/IMG_20210713_143632.jpg
